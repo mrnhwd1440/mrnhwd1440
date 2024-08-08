@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @mrnhwd1440
+- 👀 I’m interested in ...Unity
+- 🌱 I’m currently learning ...Unity and C#
+- 💞️ I’m looking to collaborate on ...Game Development
+- 📫 How to reach me ...X
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ...I'm not good at English
